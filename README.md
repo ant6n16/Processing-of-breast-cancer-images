@@ -1,7 +1,5 @@
 # Processing-of-breast-cancer-images
 
-# Optical-Gaussian-Pulse
-
 This repository contains the archives created for a project of the subject of Medical Imaging of the master in Telecommunications Engineering.
 The purpose of this project is to implement image processing algorithms that allow to characterize tumors in ultrasound images to determine if they are benign or malignant. Specifically, we will measure two characteristics: density (perimeter squared between area) and the average level of gray. A high density implies that the tumor has irregular borders, which is an indication of malignancy. In turn, a high average gray level indicates that the tumor may be malignant. A database of breast ultrasounds available at
 https://www.kaggle.com/aryashah2k/breast-ultrasound-images-dataset.
@@ -10,7 +8,7 @@ https://www.kaggle.com/aryashah2k/breast-ultrasound-images-dataset.
 <h2 align = center>
 	<a href="#about">Requirements</a>
 	<span> · </span>
-	<a href="#instructions">Instuctions</a>
+	<a href="#instructions">Instructions</a>
 	<span> · </span>
 	<a href="#license">License</a>
 </h2>
